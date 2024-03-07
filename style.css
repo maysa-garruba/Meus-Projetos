@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right, #9bb6ee , #acafc9, #a2e5fb );
+}
+
+
+h1{
+
+  color: #201ddd;
+  font-size: 80px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  background-color: #deecf2;
+  border-radius: 20px;
+}
+
+h2{
+
+  color: #201ddd;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  background-color: #deecf2;
+  border-radius: 20px;
+  margin-left:35%;
+  margin-right:35%;
+  
+}
+
+p{
+  color: #00000;
+  font-size: 20px;
+  
+}
+
+div{
+
+text-align: center;
+}
+
+h3{
+
+  color: #04026e;
+  font-family: 'Kaushan Script', cursive;
+}
+  
+ul{
+
+  color: #00000;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+}
+.maysa{
+
+border-radius: 50%;
+  
+}
+
+.ma{
+
+height: 15%;
+width: 15%;
+
+  
+}
+
+
